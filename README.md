@@ -218,38 +218,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ihsas01&theme=dark&hide_border=true"/>
 </p>
 
----
 
-### 🎖 &nbsp;My Badges
-
-<p align="center">
-  <a href="https://holopin.io/@adityakanoi">
-    <img src="https://holopin.me/adityakanoi" alt="Holopin badges"/>
-  </a>
-</p>
-
----
-
-### 💰 &nbsp;Support My Work
-
-<p align="center">
-  <a href="https://buymeacoffee.com/adityakanoi">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/>
-  </a>
-</p>
-
----
-
-### 📜 &nbsp;My Articles
-
-<p align="center">
-  <a href="https://medium.com/@adityakanoi123">
-    <img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://thedefenceengineer.quora.com/">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"/>
-  </a>
-</p>
 
 ---

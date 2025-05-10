@@ -50,9 +50,15 @@
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed ihsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ihsas" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed ihsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed ihsas" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed ihsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed ihsas" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=pimb0a4" target="_blank" style="margin-right: 15px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed ihsas instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ihsas-2a928a2b7" target="_blank" style="margin-right: 15px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ihsas linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/share/1BeaFaxoSQ/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed ihsas facebook" height="30" width="40" />
+  </a>
 </p>
 
 <h4> Languages </h4>
